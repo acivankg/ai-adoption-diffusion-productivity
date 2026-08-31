@@ -1,0 +1,687 @@
+﻿ref_area.label,source.label,indicator.label,sex.label,classif1.label,time,obs_value,obs_status.label,note_indicator.label,note_source.label
+Afghanistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2021,7679.474,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First quarter
+Afghanistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2021,2.385,Unreliable,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First quarter
+Afghanistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2021,29.094,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First quarter
+Afghanistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2021,720.246,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First quarter
+Afghanistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 1 - Low exposure, high task 
+variability",2021,329.742,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First quarter
+Afghanistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: Minimal exposure, 
+moderate task variability",2021,258.223,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First quarter
+Afghanistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: X - Not elsewhere classified,2021,6339.784,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First quarter
+Afghanistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: Total,2021,5850.428,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First quarter
+Afghanistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2021,2.385,Unreliable,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First quarter
+Afghanistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2021,29.094,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First quarter
+Afghanistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2021,715.599,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First quarter
+Afghanistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 1 - Low exposure, high task 
+variability",2021,320.418,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First quarter
+Afghanistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: Minimal exposure, 
+moderate task variability",2021,246.175,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First quarter
+Afghanistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: X - Not elsewhere classified,2021,4536.757,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First quarter
+Afghanistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: Total,2021,1829.046,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First quarter
+Afghanistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2021,,Unreliable,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First quarter
+Afghanistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2021,0,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First quarter
+Afghanistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2021,4.647,Unreliable,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First quarter
+Afghanistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 1 - Low exposure, high task 
+variability",2021,,Unreliable,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First quarter
+Afghanistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: Minimal exposure, 
+moderate task variability",2021,12.048,Unreliable,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First quarter
+Afghanistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: X - Not elsewhere classified,2021,1803.027,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First quarter
+Angola,LFS - Employment Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 1 - Low exposure, high task 
+variability",2025,1349.752,,,Repository: ILO-STATISTICS - Micro data processing
+United Arab Emirates,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 1 - Low exposure, high task 
+variability",2017,13.12,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Burundi,HIES - Living Standards Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2020,41.919,,,Repository: ILO-STATISTICS - Micro data processing
+Bangladesh,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2024,58.356,,,Repository: ILO-STATISTICS - Micro data processing
+Bangladesh,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Other,Exposure gradient: Total,2024,3.268,Unreliable,,Repository: ILO-STATISTICS - Micro data processing
+Bangladesh,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Other,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2024,,Unreliable,,Repository: ILO-STATISTICS - Micro data processing
+Bangladesh,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Other,Exposure gradient: X - Not elsewhere classified,2024,2.868,Unreliable,,Repository: ILO-STATISTICS - Micro data processing
+Bangladesh,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Other,Exposure gradient: Total,2023,5.44,,,Repository: ILO-STATISTICS - Micro data processing
+Bangladesh,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Other,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2023,,Unreliable,,Repository: ILO-STATISTICS - Micro data processing
+Bangladesh,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Other,"Exposure gradient: 1 - Low exposure, high task 
+variability",2023,,Unreliable,,Repository: ILO-STATISTICS - Micro data processing
+Bangladesh,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Other,"Exposure gradient: Minimal exposure, 
+moderate task variability",2023,,Unreliable,,Repository: ILO-STATISTICS - Micro data processing
+Bahamas,LFS - Labour Force & Household Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2024,5.508,,,Repository: ILO-STATISTICS - Micro data processing
+Bosnia and Herzegovina,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2020,1173.075,Break in series,Employment definition: Excluding own-use production workers | Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Bosnia and Herzegovina,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2020,41.887,Break in series,Employment definition: Excluding own-use production workers | Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Bosnia and Herzegovina,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2020,62.046,Break in series,Employment definition: Excluding own-use production workers | Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Bosnia and Herzegovina,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2020,42.351,Break in series,Employment definition: Excluding own-use production workers | Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Bosnia and Herzegovina,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 1 - Low exposure, high task 
+variability",2020,136.666,Break in series,Employment definition: Excluding own-use production workers | Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Bosnia and Herzegovina,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: Minimal exposure, 
+moderate task variability",2020,156.756,Break in series,Employment definition: Excluding own-use production workers | Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Bosnia and Herzegovina,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: X - Not elsewhere classified,2020,733.369,Break in series,Employment definition: Excluding own-use production workers | Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Bosnia and Herzegovina,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: Total,2020,723.31,Break in series,Employment definition: Excluding own-use production workers | Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Bosnia and Herzegovina,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2020,16.522,Break in series,Employment definition: Excluding own-use production workers | Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Bosnia and Herzegovina,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2020,30.202,Break in series,Employment definition: Excluding own-use production workers | Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Bosnia and Herzegovina,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2020,23.806,Break in series,Employment definition: Excluding own-use production workers | Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Bosnia and Herzegovina,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 1 - Low exposure, high task 
+variability",2020,57.475,Break in series,Employment definition: Excluding own-use production workers | Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Bosnia and Herzegovina,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: Minimal exposure, 
+moderate task variability",2020,105.534,Break in series,Employment definition: Excluding own-use production workers | Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Bosnia and Herzegovina,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: X - Not elsewhere classified,2020,489.772,Break in series,Employment definition: Excluding own-use production workers | Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Bosnia and Herzegovina,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: Total,2020,449.765,Break in series,Employment definition: Excluding own-use production workers | Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Bosnia and Herzegovina,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2020,25.365,Break in series,Employment definition: Excluding own-use production workers | Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Bosnia and Herzegovina,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2020,31.844,Break in series,Employment definition: Excluding own-use production workers | Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Bosnia and Herzegovina,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2020,18.545,Break in series,Employment definition: Excluding own-use production workers | Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Bosnia and Herzegovina,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 1 - Low exposure, high task 
+variability",2020,79.191,Break in series,Employment definition: Excluding own-use production workers | Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Bosnia and Herzegovina,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: Minimal exposure, 
+moderate task variability",2020,51.223,Break in series,Employment definition: Excluding own-use production workers | Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Bosnia and Herzegovina,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: X - Not elsewhere classified,2020,243.597,Break in series,Employment definition: Excluding own-use production workers | Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Belarus,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2024,4798.198,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 74 years old
+Belarus,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2024,27.515,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 74 years old
+Belarus,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2024,415.608,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 74 years old
+Belarus,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2024,271.235,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 74 years old
+Belarus,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 1 - Low exposure, high task 
+variability",2024,392.378,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 74 years old
+Belarus,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: Minimal exposure, 
+moderate task variability",2024,1023.696,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 74 years old
+Belarus,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: X - Not elsewhere classified,2024,2667.767,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 74 years old
+Belarus,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: Total,2024,2373.655,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 74 years old
+Belarus,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2024,6.781,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 74 years old
+Belarus,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2024,103.819,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 74 years old
+Belarus,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2024,87.029,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 74 years old
+Belarus,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 1 - Low exposure, high task 
+variability",2024,112.95,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 74 years old
+Belarus,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: Minimal exposure, 
+moderate task variability",2024,541.764,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 74 years old
+Belarus,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: X - Not elsewhere classified,2024,1521.312,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 74 years old
+Belarus,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: Total,2024,2424.543,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 74 years old
+Belarus,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2024,20.734,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 74 years old
+Belarus,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2024,311.788,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 74 years old
+Belarus,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2024,184.206,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 74 years old
+Belarus,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 1 - Low exposure, high task 
+variability",2024,279.427,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 74 years old
+Belarus,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: Minimal exposure, 
+moderate task variability",2024,481.933,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 74 years old
+Belarus,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: X - Not elsewhere classified,2024,1146.454,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 74 years old
+Belize,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: Minimal exposure, 
+moderate task variability",2016,4.334,,,Repository: ILO-STATISTICS - Micro data processing
+Brazil,HS - Continuous National Household Sample Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2013,90770.602,,,Repository: ILO-STATISTICS - Micro data processing
+Brazil,HS - Continuous National Household Sample Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2012,2791.092,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Barbados,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: Total,2024,62.934,,,Repository: ILO-STATISTICS - Micro data processing
+Bhutan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: X - Not elsewhere classified,2025,152.963,,,Repository: ILO-STATISTICS - Micro data processing
+Botswana,HS - Multi-Topic Household Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2019,19.828,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Switzerland,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 1 - Low exposure, high task 
+variability",2025,91.241,,,Repository: ILO-STATISTICS - Micro data processing
+Switzerland,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2004,3959.157,,,Repository: ILO-STATISTICS - Micro data processing
+Switzerland,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2003,3963.028,,,Repository: ILO-STATISTICS - Micro data processing
+Switzerland,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2002,3964.898,,,Repository: ILO-STATISTICS - Micro data processing
+Switzerland,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2001,3938.18,,,Repository: ILO-STATISTICS - Micro data processing
+Switzerland,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2000,3878.752,,,Repository: ILO-STATISTICS - Micro data processing
+Switzerland,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,1999,3861.97,,,Repository: ILO-STATISTICS - Micro data processing
+Switzerland,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,1998,3832.992,,,Repository: ILO-STATISTICS - Micro data processing
+Switzerland,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,1997,3765.599,,,Repository: ILO-STATISTICS - Micro data processing
+Switzerland,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,1996,3780.575,,,Repository: ILO-STATISTICS - Micro data processing
+Chile,HS - National Survey on Socio-Economic Conditions,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2022,359.4,,,Repository: ILO-STATISTICS - Micro data processing
+Cook Islands,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2019,,Unreliable,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Cook Islands,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2019,0.311,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Colombia,LFS - Integrated Household Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: Minimal exposure, 
+moderate task variability",2022,1050.241,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Cape Verde,LFS - Continuous Multi-Objective Survey Employment and Labor Market Statistics,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2009,1.364,,,Repository: ILO-STATISTICS - Micro data processing
+Costa Rica,LFS - Continuous Employment Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2025,27.513,,,Repository: ILO-STATISTICS - Micro data processing
+Czechia,LFS - Labour Force Sample Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2024,5192.417,,,Repository: ILO-STATISTICS - Micro data processing
+Czechia,LFS - Labour Force Sample Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2024,213.106,,,Repository: ILO-STATISTICS - Micro data processing
+Czechia,LFS - Labour Force Sample Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2024,458.381,,,Repository: ILO-STATISTICS - Micro data processing
+Czechia,LFS - Labour Force Sample Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2024,317.639,,,Repository: ILO-STATISTICS - Micro data processing
+Czechia,LFS - Labour Force Sample Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 1 - Low exposure, high task 
+variability",2024,292.319,,,Repository: ILO-STATISTICS - Micro data processing
+Czechia,LFS - Labour Force Sample Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: Minimal exposure, 
+moderate task variability",2024,1024.946,,,Repository: ILO-STATISTICS - Micro data processing
+Czechia,LFS - Labour Force Sample Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: X - Not elsewhere classified,2024,2886.026,,,Repository: ILO-STATISTICS - Micro data processing
+Czechia,LFS - Labour Force Sample Survey,Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: Total,2024,2845.606,,,Repository: ILO-STATISTICS - Micro data processing
+Czechia,LFS - Labour Force Sample Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2024,31.026,,,Repository: ILO-STATISTICS - Micro data processing
+Czechia,LFS - Labour Force Sample Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2024,210.32,,,Repository: ILO-STATISTICS - Micro data processing
+Czechia,LFS - Labour Force Sample Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2024,185.39,,,Repository: ILO-STATISTICS - Micro data processing
+Czechia,LFS - Labour Force Sample Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 1 - Low exposure, high task 
+variability",2024,104.091,,,Repository: ILO-STATISTICS - Micro data processing
+Czechia,LFS - Labour Force Sample Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: Minimal exposure, 
+moderate task variability",2024,521.809,,,Repository: ILO-STATISTICS - Micro data processing
+Czechia,LFS - Labour Force Sample Survey,Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: X - Not elsewhere classified,2024,1792.971,,,Repository: ILO-STATISTICS - Micro data processing
+Czechia,LFS - Labour Force Sample Survey,Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: Total,2024,2346.811,,,Repository: ILO-STATISTICS - Micro data processing
+Czechia,LFS - Labour Force Sample Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2024,182.08,,,Repository: ILO-STATISTICS - Micro data processing
+Czechia,LFS - Labour Force Sample Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2024,248.061,,,Repository: ILO-STATISTICS - Micro data processing
+Czechia,LFS - Labour Force Sample Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2024,132.25,,,Repository: ILO-STATISTICS - Micro data processing
+Czechia,LFS - Labour Force Sample Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 1 - Low exposure, high task 
+variability",2024,188.228,,,Repository: ILO-STATISTICS - Micro data processing
+Czechia,LFS - Labour Force Sample Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: Minimal exposure, 
+moderate task variability",2024,503.137,,,Repository: ILO-STATISTICS - Micro data processing
+Czechia,LFS - Labour Force Sample Survey,Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: X - Not elsewhere classified,2024,1093.055,,,Repository: ILO-STATISTICS - Micro data processing
+Czechia,LFS - Labour Force Sample Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2011,4872.406,,,Repository: ILO-STATISTICS - Micro data processing
+Dominican Republic,LFS - Continuous National Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: Total,2020,1753.857,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Ecuador,"LFS - National Survey on Employment, Unemployment and Underemployment",Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: X - Not elsewhere classified,2020,1882.401,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Egypt,LFS - Labour Force Sample Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 1 - Low exposure, high task 
+variability",2024,4002.478,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Ethiopia,LFS - National Labor Force Survey,Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: Total,2021,21417.124,,,Repository: ILO-STATISTICS - Micro data processing
+Fiji,"LFS - Employment, Unemployment Survey",Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: X - Not elsewhere classified,2024,174.071,,,Repository: ILO-STATISTICS - Micro data processing
+France,LFS - Employment Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2024,29021.954,,,Repository: ILO-STATISTICS - Micro data processing
+France,LFS - Employment Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2024,1144.083,,,Repository: ILO-STATISTICS - Micro data processing
+France,LFS - Employment Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2024,3079.483,,,Repository: ILO-STATISTICS - Micro data processing
+France,LFS - Employment Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2024,2679.306,,,Repository: ILO-STATISTICS - Micro data processing
+France,LFS - Employment Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 1 - Low exposure, high task 
+variability",2024,1368.814,,,Repository: ILO-STATISTICS - Micro data processing
+France,LFS - Employment Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: Minimal exposure, 
+moderate task variability",2024,6110.966,,,Repository: ILO-STATISTICS - Micro data processing
+France,LFS - Employment Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: X - Not elsewhere classified,2024,14639.302,,,Repository: ILO-STATISTICS - Micro data processing
+France,LFS - Employment Survey,Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: Total,2024,14853.007,,,Repository: ILO-STATISTICS - Micro data processing
+France,LFS - Employment Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2024,270.854,,,Repository: ILO-STATISTICS - Micro data processing
+France,LFS - Employment Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2024,1259.576,,,Repository: ILO-STATISTICS - Micro data processing
+France,LFS - Employment Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2024,1306.577,,,Repository: ILO-STATISTICS - Micro data processing
+France,LFS - Employment Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 1 - Low exposure, high task 
+variability",2024,551.906,,,Repository: ILO-STATISTICS - Micro data processing
+France,LFS - Employment Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: Minimal exposure, 
+moderate task variability",2024,3168.142,,,Repository: ILO-STATISTICS - Micro data processing
+France,LFS - Employment Survey,Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: X - Not elsewhere classified,2024,8295.952,,,Repository: ILO-STATISTICS - Micro data processing
+France,LFS - Employment Survey,Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: Total,2024,14168.947,,,Repository: ILO-STATISTICS - Micro data processing
+France,LFS - Employment Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2024,873.229,,,Repository: ILO-STATISTICS - Micro data processing
+France,LFS - Employment Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2024,1819.907,,,Repository: ILO-STATISTICS - Micro data processing
+France,LFS - Employment Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2024,1372.729,,,Repository: ILO-STATISTICS - Micro data processing
+France,LFS - Employment Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 1 - Low exposure, high task 
+variability",2024,816.908,,,Repository: ILO-STATISTICS - Micro data processing
+France,LFS - Employment Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: Minimal exposure, 
+moderate task variability",2024,2942.823,,,Repository: ILO-STATISTICS - Micro data processing
+France,LFS - Employment Survey,Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: X - Not elsewhere classified,2024,6343.35,,,Repository: ILO-STATISTICS - Micro data processing
+United Kingdom of Great Britain and Northern Ireland,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2007,29325.129,,,Repository: ILO-STATISTICS - Micro data processing
+United Kingdom of Great Britain and Northern Ireland,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2006,29097.046,,,Repository: ILO-STATISTICS - Micro data processing
+United Kingdom of Great Britain and Northern Ireland,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2005,662.575,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Georgia,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2020,21.353,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Ghana,HIES - Living Standards Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2017,26.856,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Gambia,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2025,53.102,,,Repository: ILO-STATISTICS - Micro data processing
+Guinea-Bissau,LFS - Integrated Regional Survey on Employment and Informal Sector,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2018,0.494,Unreliable,,Repository: ILO-STATISTICS - Micro data processing
+Grenada,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2018,0.588,Unreliable,,Repository: ILO-STATISTICS - Micro data processing
+Guyana,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: Minimal exposure, 
+moderate task variability",2018,12.304,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Honduras,HS - Continous Multi-Purpose Household Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2025,86.493,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Second quarter
+Honduras,HS - Continous Multi-Purpose Household Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 1 - Low exposure, high task 
+variability",2025,357.603,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Second quarter
+Honduras,HS - Continous Multi-Purpose Household Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: Minimal exposure, 
+moderate task variability",2025,357.602,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Second quarter
+Honduras,HS - Continous Multi-Purpose Household Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: X - Not elsewhere classified,2025,2791.535,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Second quarter
+Honduras,HS - Continous Multi-Purpose Household Survey,Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: Total,2025,2462.313,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Second quarter
+Honduras,HS - Continous Multi-Purpose Household Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2025,23.095,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Second quarter
+Honduras,HS - Continous Multi-Purpose Household Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2025,127.213,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Second quarter
+Honduras,HS - Continous Multi-Purpose Household Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2025,48.697,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Second quarter
+Honduras,HS - Continous Multi-Purpose Household Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 1 - Low exposure, high task 
+variability",2025,199.649,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Second quarter
+Honduras,HS - Continous Multi-Purpose Household Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: Minimal exposure, 
+moderate task variability",2025,123.435,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Second quarter
+Honduras,HS - Continous Multi-Purpose Household Survey,Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: X - Not elsewhere classified,2025,909.445,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Second quarter
+Indonesia,LFS - National Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2023,1469.044,,,Repository: ILO-STATISTICS - Micro data processing
+Iraq,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2021,90.155,,,Repository: ILO-STATISTICS - Micro data processing
+Iraq,HIES - Household Socio-Economic Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2012,7613.335,,,Repository: ILO-STATISTICS - Micro data processing
+Kyrgyzstan,LFS - Employment and Unemployment Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: Minimal exposure, 
+moderate task variability",2023,253.587,,,Repository: ILO-STATISTICS - Micro data processing
+Cambodia,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: Total,2019,4459.621,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Kiribati,HIES - Household Income and Expenditure Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2023,41.283,,,Repository: ILO-STATISTICS - Micro data processing
+Kosovo,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: X - Not elsewhere classified,2019,174.796,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Lao People's Democratic Republic,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 1 - Low exposure, high task 
+variability",2017,79.384,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Lebanon,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2019,141.042,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Sri Lanka,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: X - Not elsewhere classified,2024,5649.397,,,Repository: ILO-STATISTICS - Micro data processing
+Lesotho,LFS - Integrated Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2024,0.674,Unreliable,,Repository: ILO-STATISTICS - Micro data processing
+Maldives,HIES - Household Income and Expenditure Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2016,7.787,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Mexico,LFS - National Occupation and Employment Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2026,60711.774,,,Repository: ILO-STATISTICS - Micro data processing
+Mexico,LFS - National Occupation and Employment Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2020,1737.849,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Marshall Islands,PC - Population Census,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: Minimal exposure, 
+moderate task variability",2021,1.457,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+North Macedonia,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2025,699.945,,,Repository: ILO-STATISTICS - Micro data processing
+North Macedonia,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2010,605.957,,,Repository: ILO-STATISTICS - Micro data processing
+Mali,HIES - Harmonized Survey on Household Living Conditions,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2022,6748.249,,,Repository: ILO-STATISTICS - Micro data processing
+Myanmar,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2020,22274.731,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First semester
+Myanmar,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2020,623.587,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First semester
+Myanmar,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2020,129.908,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First semester
+Myanmar,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2020,2242.833,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First semester
+Myanmar,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 1 - Low exposure, high task 
+variability",2020,1862.984,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First semester
+Myanmar,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: Minimal exposure, 
+moderate task variability",2020,2042.223,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First semester
+Myanmar,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: X - Not elsewhere classified,2020,15373.197,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First semester
+Myanmar,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: Total,2020,13137.423,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First semester
+Myanmar,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2020,278.241,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First semester
+Myanmar,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2020,49.234,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First semester
+Myanmar,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2020,954.273,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First semester
+Myanmar,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 1 - Low exposure, high task 
+variability",2020,892.986,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First semester
+Myanmar,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: Minimal exposure, 
+moderate task variability",2020,1433.202,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First semester
+Myanmar,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: X - Not elsewhere classified,2020,9529.488,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First semester
+Myanmar,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: Total,2020,9137.307,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First semester
+Myanmar,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2020,345.347,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First semester
+Myanmar,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2020,80.674,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First semester
+Myanmar,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2020,1288.559,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First semester
+Myanmar,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 1 - Low exposure, high task 
+variability",2020,969.998,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First semester
+Myanmar,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: Minimal exposure, 
+moderate task variability",2020,609.021,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First semester
+Myanmar,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: X - Not elsewhere classified,2020,5843.709,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: First semester
+Mongolia,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 1 - Low exposure, high task 
+variability",2009,35.391,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Mongolia,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2008,899.802,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Mongolia,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2008,6.156,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Mongolia,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2008,22.711,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Mongolia,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2008,6.404,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Mongolia,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 1 - Low exposure, high task 
+variability",2008,76.471,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Mongolia,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: Minimal exposure, 
+moderate task variability",2008,49.743,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Mongolia,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: X - Not elsewhere classified,2008,738.316,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Mongolia,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: Total,2008,466.052,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Mongolia,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2008,1.873,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Mongolia,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2008,6.446,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Mongolia,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2008,2.783,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Mongolia,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 1 - Low exposure, high task 
+variability",2008,48.841,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Mongolia,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: Minimal exposure, 
+moderate task variability",2008,20.641,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Mongolia,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: X - Not elsewhere classified,2008,385.468,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Mongolia,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: Total,2008,433.75,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Mongolia,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2008,4.283,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Mongolia,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2008,16.265,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Mongolia,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2008,3.62,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Mongolia,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 1 - Low exposure, high task 
+variability",2008,27.63,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Mongolia,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: Minimal exposure, 
+moderate task variability",2008,29.102,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Mongolia,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: X - Not elsewhere classified,2008,352.849,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Montserrat,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2020,2.489,,,Repository: ILO-STATISTICS - Micro data processing
+Malawi,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2024,4999.447,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 64 years old
+Malawi,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2024,18.451,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 64 years old
+Malawi,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2024,33.535,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 64 years old
+Malawi,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2024,370.156,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 64 years old
+Malawi,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 1 - Low exposure, high task 
+variability",2024,201.347,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 64 years old
+Malawi,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: Minimal exposure, 
+moderate task variability",2024,954.944,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 64 years old
+Malawi,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: X - Not elsewhere classified,2024,3421.016,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 64 years old
+Malawi,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: Total,2024,2627.705,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 64 years old
+Malawi,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2024,13.96,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 64 years old
+Malawi,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2024,24.244,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 64 years old
+Malawi,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2024,169.375,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 64 years old
+Malawi,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 1 - Low exposure, high task 
+variability",2024,102.676,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 64 years old
+Malawi,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: Minimal exposure, 
+moderate task variability",2024,458.692,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 64 years old
+Malawi,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: X - Not elsewhere classified,2024,1858.757,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 64 years old
+Malawi,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: Total,2024,2371.742,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 64 years old
+Malawi,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2024,4.49,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 64 years old
+Malawi,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2024,9.291,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 64 years old
+Malawi,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2024,200.78,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 64 years old
+Malawi,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 1 - Low exposure, high task 
+variability",2024,98.671,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 64 years old
+Malawi,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: Minimal exposure, 
+moderate task variability",2024,496.252,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 64 years old
+Malawi,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: X - Not elsewhere classified,2024,1562.258,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 64 years old
+Nigeria,"LFS - Unemployment, Under-employment Watch",Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2024,93100.664,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Niue,PC - Population Census,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 1 - Low exposure, high task 
+variability",2022,0.008,Unreliable,,Repository: ILO-STATISTICS - Micro data processing
+Nepal,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: X - Not elsewhere classified,2017,5190.242,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Naoero,PC - Population Census,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2021,4.451,,,Repository: ILO-STATISTICS - Micro data processing
+Pakistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2025,77641.546,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Pakistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2025,853.948,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Pakistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2025,997.415,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Pakistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2025,7902.601,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Pakistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 1 - Low exposure, high task 
+variability",2025,4131.197,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Pakistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: Minimal exposure, 
+moderate task variability",2025,6362.735,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Pakistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: X - Not elsewhere classified,2025,57393.65,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Pakistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: Total,2025,58865.283,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Pakistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2025,801.705,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Pakistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2025,860.431,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Pakistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2025,7539.334,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Pakistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 1 - Low exposure, high task 
+variability",2025,4026.173,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Pakistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: Minimal exposure, 
+moderate task variability",2025,5572.594,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Pakistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: X - Not elsewhere classified,2025,40065.046,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Pakistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: Total,2025,18776.263,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Pakistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2025,52.243,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Pakistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2025,136.984,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Pakistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2025,363.267,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Pakistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: Minimal exposure, 
+moderate task variability",2025,790.141,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Pakistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: X - Not elsewhere classified,2025,17328.604,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Pakistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2019,16.458,Unreliable,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Noncalendar year
+Panama,LFS - Labour Market Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2025,1968.566,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: October
+Panama,LFS - Labour Market Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2025,47.795,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: October
+Panama,LFS - Labour Market Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2025,103.304,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: October
+Panama,LFS - Labour Market Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2025,78.237,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: October
+Panama,LFS - Labour Market Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 1 - Low exposure, high task 
+variability",2025,124.284,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: October
+Panama,LFS - Labour Market Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: Minimal exposure, 
+moderate task variability",2025,183.1,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: October
+Panama,LFS - Labour Market Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: X - Not elsewhere classified,2025,1431.846,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: October
+Panama,LFS - Labour Market Survey,Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: Total,2025,1129.974,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: October
+Panama,LFS - Labour Market Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2025,14.057,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: October
+Panama,LFS - Labour Market Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2025,35.672,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: October
+Panama,LFS - Labour Market Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2025,41.408,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: October
+Panama,LFS - Labour Market Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 1 - Low exposure, high task 
+variability",2025,79.737,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: October
+Panama,LFS - Labour Market Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: Minimal exposure, 
+moderate task variability",2025,111.633,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: October
+Panama,LFS - Labour Market Survey,Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: X - Not elsewhere classified,2025,847.467,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: October
+Panama,LFS - Labour Market Survey,Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: Total,2025,838.592,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: October
+Panama,LFS - Labour Market Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2025,33.738,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: October
+Panama,LFS - Labour Market Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2025,67.632,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: October
+Panama,LFS - Labour Market Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2025,36.829,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: October
+Panama,LFS - Labour Market Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 1 - Low exposure, high task 
+variability",2025,44.547,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: October
+Panama,LFS - Labour Market Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: Minimal exposure, 
+moderate task variability",2025,71.467,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: October
+Panama,LFS - Labour Market Survey,Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: X - Not elsewhere classified,2025,584.379,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: October
+Peru,"LFS - Permanent Employment Survey, National",Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2025,17836.155,,,Repository: ILO-STATISTICS - Micro data processing
+Philippines,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2023,46938.519,,,Repository: ILO-STATISTICS - Micro data processing
+Palau,PC - Population Census,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2020,9.466,,,Repository: ILO-STATISTICS - Micro data processing
+Rwanda,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2021,3940.085,,,Repository: ILO-STATISTICS - Micro data processing
+Sudan,LFS - Labor Market Panel Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2022,2.515,Unreliable,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Senegal,LFS - National Employment Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2024,4667.673,,,Repository: ILO-STATISTICS - Micro data processing
+Sierra Leone,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2014,1633.917,,,Repository: ILO-STATISTICS - Micro data processing
+El Salvador,HS - Multi-purpose Household Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2019,2908.119,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: 16 years old
+El Salvador,HS - Multi-purpose Household Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2019,33.085,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: 16 years old
+El Salvador,HS - Multi-purpose Household Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2019,120.015,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: 16 years old
+El Salvador,HS - Multi-purpose Household Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2019,249.536,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: 16 years old
+El Salvador,HS - Multi-purpose Household Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 1 - Low exposure, high task 
+variability",2019,355.546,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: 16 years old
+El Salvador,HS - Multi-purpose Household Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: Minimal exposure, 
+moderate task variability",2019,229.015,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: 16 years old
+El Salvador,HS - Multi-purpose Household Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: X - Not elsewhere classified,2019,1920.923,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: 16 years old
+El Salvador,HS - Multi-purpose Household Survey,Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: Total,2019,1703.074,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: 16 years old
+El Salvador,HS - Multi-purpose Household Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2019,19.654,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: 16 years old
+El Salvador,HS - Multi-purpose Household Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2019,53.769,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: 16 years old
+El Salvador,HS - Multi-purpose Household Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2019,90.4,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: 16 years old
+El Salvador,HS - Multi-purpose Household Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 1 - Low exposure, high task 
+variability",2019,157.166,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: 16 years old
+El Salvador,HS - Multi-purpose Household Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: Minimal exposure, 
+moderate task variability",2019,149.909,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: 16 years old
+El Salvador,HS - Multi-purpose Household Survey,Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: X - Not elsewhere classified,2019,1232.177,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: 16 years old
+El Salvador,HS - Multi-purpose Household Survey,Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: Total,2019,1205.045,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: 16 years old
+El Salvador,HS - Multi-purpose Household Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2019,13.431,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: 16 years old
+El Salvador,HS - Multi-purpose Household Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2019,66.247,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: 16 years old
+El Salvador,HS - Multi-purpose Household Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2019,159.137,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: 16 years old
+El Salvador,HS - Multi-purpose Household Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 1 - Low exposure, high task 
+variability",2019,198.38,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: 16 years old
+El Salvador,HS - Multi-purpose Household Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: Minimal exposure, 
+moderate task variability",2019,79.105,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: 16 years old
+El Salvador,HS - Multi-purpose Household Survey,Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: X - Not elsewhere classified,2019,688.745,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: 16 years old
+Serbia,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2019,2899.964,,,Repository: ILO-STATISTICS - Micro data processing
+Sao Tome and Principe,HIES - Household Budget Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2017,52.886,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: Less than or equal to 9 years old
+Sao Tome and Principe,HIES - Household Budget Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2017,0.475,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: Less than or equal to 9 years old
+Sao Tome and Principe,HIES - Household Budget Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2017,1.641,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: Less than or equal to 9 years old
+Sao Tome and Principe,HIES - Household Budget Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2017,3.701,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: Less than or equal to 9 years old
+Sao Tome and Principe,HIES - Household Budget Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 1 - Low exposure, high task 
+variability",2017,2.567,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: Less than or equal to 9 years old
+Sao Tome and Principe,HIES - Household Budget Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: Minimal exposure, 
+moderate task variability",2017,7.022,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: Less than or equal to 9 years old
+Sao Tome and Principe,HIES - Household Budget Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: X - Not elsewhere classified,2017,37.48,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: Less than or equal to 9 years old
+Sao Tome and Principe,HIES - Household Budget Survey,Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: Total,2017,32.293,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: Less than or equal to 9 years old
+Sao Tome and Principe,HIES - Household Budget Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2017,0.149,Unreliable,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: Less than or equal to 9 years old
+Sao Tome and Principe,HIES - Household Budget Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2017,1.147,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: Less than or equal to 9 years old
+Sao Tome and Principe,HIES - Household Budget Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2017,1.32,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: Less than or equal to 9 years old
+Sao Tome and Principe,HIES - Household Budget Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 1 - Low exposure, high task 
+variability",2017,0.85,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: Less than or equal to 9 years old
+Sao Tome and Principe,HIES - Household Budget Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: Minimal exposure, 
+moderate task variability",2017,3.803,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: Less than or equal to 9 years old
+Sao Tome and Principe,HIES - Household Budget Survey,Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: X - Not elsewhere classified,2017,25.025,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: Less than or equal to 9 years old
+Sao Tome and Principe,HIES - Household Budget Survey,Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: Total,2017,20.593,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: Less than or equal to 9 years old
+Sao Tome and Principe,HIES - Household Budget Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2017,0.326,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: Less than or equal to 9 years old
+Sao Tome and Principe,HIES - Household Budget Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2017,0.495,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: Less than or equal to 9 years old
+Sao Tome and Principe,HIES - Household Budget Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2017,2.381,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: Less than or equal to 9 years old
+Sao Tome and Principe,HIES - Household Budget Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 1 - Low exposure, high task 
+variability",2017,1.717,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: Less than or equal to 9 years old
+Sao Tome and Principe,HIES - Household Budget Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: Minimal exposure, 
+moderate task variability",2017,3.219,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: Less than or equal to 9 years old
+Sao Tome and Principe,HIES - Household Budget Survey,Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: X - Not elsewhere classified,2017,12.456,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: Less than or equal to 9 years old
+Suriname,HIES - Survey on Living Conditions,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2016,189.681,,,Repository: ILO-STATISTICS - Micro data processing
+Eswatini,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2023,224.339,,,Repository: ILO-STATISTICS - Micro data processing
+Seychelles,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2020,48.537,,,Repository: ILO-STATISTICS - Micro data processing
+Thailand,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2025,39624.554,,,Repository: ILO-STATISTICS - Micro data processing
+Tajikistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2016,2266.743,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+Tajikistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2016,12.311,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+Tajikistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2016,71.401,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+Tajikistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2016,38.631,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+Tajikistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 1 - Low exposure, high task 
+variability",2016,263.023,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+Tajikistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: Minimal exposure, 
+moderate task variability",2016,218.725,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+Tajikistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: X - Not elsewhere classified,2016,1662.653,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+Tajikistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: Total,2016,1635.241,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+Tajikistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2016,6.412,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+Tajikistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2016,49.756,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+Tajikistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2016,30.176,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+Tajikistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 1 - Low exposure, high task 
+variability",2016,215.039,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+Tajikistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: Minimal exposure, 
+moderate task variability",2016,135.871,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+Tajikistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: X - Not elsewhere classified,2016,1197.986,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+Tajikistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: Total,2016,631.502,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+Tajikistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2016,5.898,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+Tajikistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2016,21.645,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+Tajikistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2016,8.455,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+Tajikistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 1 - Low exposure, high task 
+variability",2016,47.983,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+Tajikistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: Minimal exposure, 
+moderate task variability",2016,82.853,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+Tajikistan,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: X - Not elsewhere classified,2016,464.667,,,Repository: ILO-STATISTICS - Micro data processing | Age coverage - maximum age: 75 years old
+Tokelau,PC - Population Census,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 1 - Low exposure, high task 
+variability",2022,0.011,Unreliable,,Repository: ILO-STATISTICS - Micro data processing
+Tokelau,PC - Population Census,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2022,0.007,Unreliable,,Repository: ILO-STATISTICS - Micro data processing
+Tokelau,PC - Population Census,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2022,0.01,Unreliable,,Repository: ILO-STATISTICS - Micro data processing
+Tokelau,PC - Population Census,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 1 - Low exposure, high task 
+variability",2022,0.005,Unreliable,,Repository: ILO-STATISTICS - Micro data processing
+Timor-Leste,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2021,0.148,Unreliable,,Repository: ILO-STATISTICS - Micro data processing
+Tonga,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2023,33.106,,,Repository: ILO-STATISTICS - Micro data processing
+Tunisia,LFS - National Population and Employment Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2019,3533.409,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Second quarter
+Tunisia,LFS - National Population and Employment Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2019,32.741,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Second quarter
+Tunisia,LFS - National Population and Employment Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2019,262.21,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Second quarter
+Tunisia,LFS - National Population and Employment Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2019,74.389,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Second quarter
+Tunisia,LFS - National Population and Employment Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 1 - Low exposure, high task 
+variability",2019,255.352,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Second quarter
+Tunisia,LFS - National Population and Employment Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: Minimal exposure, 
+moderate task variability",2019,190.428,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Second quarter
+Tunisia,LFS - National Population and Employment Survey,Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: X - Not elsewhere classified,2019,1856.92,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Second quarter
+Tunisia,LFS - National Population and Employment Survey,Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: Total,2019,939.174,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Second quarter
+Tunisia,LFS - National Population and Employment Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2019,13.644,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Second quarter
+Tunisia,LFS - National Population and Employment Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2019,64.161,,,Repository: ILO-STATISTICS - Micro data processing | Data reference period: Second quarter
+Tuvalu,PC - Population Census,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2022,2.951,,,Repository: ILO-STATISTICS - Micro data processing
+"Tanzania, United Republic of",HIES - National Panel Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2020,23645.086,,,Repository: ILO-STATISTICS - Micro data processing
+Uganda,HIES - National Household Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2019,71.083,Unreliable,,Repository: ILO-STATISTICS - Micro data processing
+Uruguay,LFS - Continous Household Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2025,1765.222,,,Repository: ILO-STATISTICS - Micro data processing
+Viet Nam,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2019,54574.308,,Employment definition: Excluding own-use production workers,Repository: ILO-STATISTICS - Micro data processing
+Viet Nam,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2019,712.15,,Employment definition: Excluding own-use production workers,Repository: ILO-STATISTICS - Micro data processing
+Viet Nam,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2019,1829.324,,Employment definition: Excluding own-use production workers,Repository: ILO-STATISTICS - Micro data processing
+Viet Nam,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2019,1456.436,,Employment definition: Excluding own-use production workers,Repository: ILO-STATISTICS - Micro data processing
+Viet Nam,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: 1 - Low exposure, high task 
+variability",2019,7439.665,,Employment definition: Excluding own-use production workers,Repository: ILO-STATISTICS - Micro data processing
+Viet Nam,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,"Exposure gradient: Minimal exposure, 
+moderate task variability",2019,3913.543,,Employment definition: Excluding own-use production workers,Repository: ILO-STATISTICS - Micro data processing
+Viet Nam,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: X - Not elsewhere classified,2019,39223.19,,Employment definition: Excluding own-use production workers,Repository: ILO-STATISTICS - Micro data processing
+Viet Nam,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: Total,2019,28556.882,,Employment definition: Excluding own-use production workers,Repository: ILO-STATISTICS - Micro data processing
+Viet Nam,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2019,403.294,,Employment definition: Excluding own-use production workers,Repository: ILO-STATISTICS - Micro data processing
+Viet Nam,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2019,710.648,,Employment definition: Excluding own-use production workers,Repository: ILO-STATISTICS - Micro data processing
+Viet Nam,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2019,670.121,,Employment definition: Excluding own-use production workers,Repository: ILO-STATISTICS - Micro data processing
+Viet Nam,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: 1 - Low exposure, high task 
+variability",2019,3145.004,,Employment definition: Excluding own-use production workers,Repository: ILO-STATISTICS - Micro data processing
+Viet Nam,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,"Exposure gradient: Minimal exposure, 
+moderate task variability",2019,2274.573,,Employment definition: Excluding own-use production workers,Repository: ILO-STATISTICS - Micro data processing
+Viet Nam,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Male,Exposure gradient: X - Not elsewhere classified,2019,21353.241,,Employment definition: Excluding own-use production workers,Repository: ILO-STATISTICS - Micro data processing
+Viet Nam,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: Total,2019,26017.426,,Employment definition: Excluding own-use production workers,Repository: ILO-STATISTICS - Micro data processing
+Viet Nam,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 4 - Highest exposure, low task 
+variability",2019,308.856,,Employment definition: Excluding own-use production workers,Repository: ILO-STATISTICS - Micro data processing
+Viet Nam,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 3 - Significant exposure, high 
+task variability",2019,1118.676,,Employment definition: Excluding own-use production workers,Repository: ILO-STATISTICS - Micro data processing
+Viet Nam,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 2 - Moderate exposure, high 
+task variability",2019,786.315,,Employment definition: Excluding own-use production workers,Repository: ILO-STATISTICS - Micro data processing
+Viet Nam,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: 1 - Low exposure, high task 
+variability",2019,4294.661,,Employment definition: Excluding own-use production workers,Repository: ILO-STATISTICS - Micro data processing
+Viet Nam,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,"Exposure gradient: Minimal exposure, 
+moderate task variability",2019,1638.97,,Employment definition: Excluding own-use production workers,Repository: ILO-STATISTICS - Micro data processing
+Viet Nam,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Female,Exposure gradient: X - Not elsewhere classified,2019,17869.949,,Employment definition: Excluding own-use production workers,Repository: ILO-STATISTICS - Micro data processing
+Vanuatu,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2025,145.472,,,Repository: ILO-STATISTICS - Micro data processing
+Vanuatu,PC - Population and Housing Census,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2020,75.841,,,Repository: ILO-STATISTICS - Micro data processing
+Wallis and Futuna,HIES - Household Income and Expenditure Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2019,4.253,,,Repository: ILO-STATISTICS - Micro data processing
+Samoa,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2022,53.135,Break in series,Break in series: Methodology revised,Repository: ILO-STATISTICS - Micro data processing
+Zambia,LFS - Labour Force Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2024,7156.247,,,Repository: ILO-STATISTICS - Micro data processing
+Zambia,HIES - Living Conditions Monitoring Survey,Employment by sex and generative AI exposure (thousands),Total,Exposure gradient: Total,2015,4465.546,,,Repository: ILO-STATISTICS - Micro data processing
